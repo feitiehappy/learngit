@@ -1,0 +1,5 @@
+
+ #include <foundation/foundation.h>
+ 
+ NSLog@“老师你好”；
+ 
